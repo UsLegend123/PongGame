@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player2()
+comment1.text=\r\n\ Constructor\ for\ player\ two\ telling\ the\ score\ and\ setting\ the\ score\r\n
+comment2.params=
+comment2.target=void\ addScore()
+comment2.text=\r\n\ Adds\ a\ score\ to\ player\ two\ if\ they\ score\ and\ checks\ if\ player\ two\ wins\r\n
+comment3.params=
+comment3.target=void\ player2()
+comment3.text=\r\n\ Adds\ a\ score\ image\ for\ player\ two\ and\ contains\ the\ score\ number\r\n
+comment4.params=
+comment4.target=void\ checkForWin()
+comment4.text=\r\n\ Checks\ for\ win\ if\ score\ is\ at\ eight\ and\ ends\ the\ game\r\n\ Sets\ the\ ending\ image\ for\ player\ two\r\n
+numComments=5

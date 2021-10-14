@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PongWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PongWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PongWorld()
+comment1.text=\r\n\ Constructor\ for\ PongWorld\ and\ creates/locates\ objects\ of\ class\ PongWorld.\r\n
+comment2.params=
+comment2.target=void\ score1()
+comment2.text=\r\n\ Connects\ to\ the\ player\ one\ method\ "addScore"\ and\ adds\ a\ score\ to\ player\ one\r\n
+comment3.params=
+comment3.target=void\ score2()
+comment3.text=\r\n\ Connects\ to\ the\ player\ two\ method\ "addScore"\ and\ adds\ a\ score\ to\ player\ two\r\n
+numComments=4
